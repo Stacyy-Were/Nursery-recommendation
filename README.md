@@ -1,3 +1,6 @@
-# nursery
+# Nursery
 
-Program to give parents/students recommendations for schools based on preferences
+Program to give parents recommendations for schools based on preferences
+
+## Requirements
+- SWI-Prolog
